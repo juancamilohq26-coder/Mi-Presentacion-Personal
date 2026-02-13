@@ -12,7 +12,6 @@ public class PresentacionJuanCamilo {
         System.out.println("Me gusta " + gustos);
     }
 }
-
 public class PresentacionJuanEsteban {
     public static void main(String[] args) {
 
@@ -27,3 +26,4 @@ public class PresentacionJuanEsteban {
         System.out.println("Me gusta " + gustos);
     }
 }
+
